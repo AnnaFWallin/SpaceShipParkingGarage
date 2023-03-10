@@ -1,0 +1,15 @@
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\bin\Debug\net6.0\SpaceshipParkinglot.exe
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\bin\Debug\net6.0\SpaceshipParkinglot.deps.json
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\bin\Debug\net6.0\SpaceshipParkinglot.runtimeconfig.json
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\bin\Debug\net6.0\SpaceshipParkinglot.dll
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\bin\Debug\net6.0\SpaceshipParkinglot.pdb
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\SpaceshipParkinglot.csproj.AssemblyReference.cache
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\SpaceshipParkinglot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\SpaceshipParkinglot.AssemblyInfoInputs.cache
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\SpaceshipParkinglot.AssemblyInfo.cs
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\SpaceshipParkinglot.csproj.CoreCompileInputs.cache
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\SpaceshipParkinglot.dll
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\refint\SpaceshipParkinglot.dll
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\SpaceshipParkinglot.pdb
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\SpaceshipParkinglot.genruntimeconfig.cache
+C:\Users\annaf\repos\SpaceshipParkinglot\SpaceshipParkinglot\SpaceshipParkinglot\obj\Debug\net6.0\ref\SpaceshipParkinglot.dll
