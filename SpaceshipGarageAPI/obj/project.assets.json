@@ -3137,11 +3137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipGarageAPI\\SpaceshipGarageAPI.csproj",
+      "projectUniqueName": "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipGarageAPI\\SpaceshipGarageAPI.csproj",
       "projectName": "SpaceshipGarageAPI",
-      "projectPath": "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipGarageAPI\\SpaceshipGarageAPI.csproj",
+      "projectPath": "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipGarageAPI\\SpaceshipGarageAPI.csproj",
       "packagesPath": "C:\\Users\\annaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipGarageAPI\\obj\\",
+      "outputPath": "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipGarageAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\annaf\\AppData\\Roaming\\NuGet\\NuGet.Config",

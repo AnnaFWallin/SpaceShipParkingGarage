@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj": {}
+    "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj": {
+    "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj",
+        "projectUniqueName": "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj",
         "projectName": "SpaceshipParkinglot",
-        "projectPath": "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj",
+        "projectPath": "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj",
         "packagesPath": "C:\\Users\\annaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot\\obj\\",
+        "outputPath": "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipParkinglot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\annaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

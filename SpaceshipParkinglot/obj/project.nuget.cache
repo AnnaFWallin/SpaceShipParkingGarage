@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bCAbwEhoYijhj6qg/4dJs2I8R3CrMilieZJtCh96nPQO+4Yg78iQvMCgy3Ia1txQVGqKuRa2lJIU4A2ooEre6A==",
+  "dgSpecHash": "7Ckzdp8+/SePJiKnQW2wFKzD/kZ2FJtCLx5K6xbHwfSI3d9pdUH6hCd5hqmPiQD/+D69jV6kZEuPZGu/e2VZeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\annaf\\repos\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\annaf\\repos\\TwoDay\\SpaceshipParkinglot\\SpaceshipParkinglot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annaf\\.nuget\\packages\\fluentassertions\\6.10.0\\fluentassertions.6.10.0.nupkg.sha512",
+    "C:\\Users\\annaf\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\annaf\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
