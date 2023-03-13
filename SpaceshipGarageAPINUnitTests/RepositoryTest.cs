@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SpaceshipGarageAPITests;
+namespace SpaceshipGarageAPIUNitTests;
 
 public class RepositoryTest
 {
@@ -15,4 +15,8 @@ public class RepositoryTest
     private IDbContextFactory<SpaceshipDbContext> _dbContextFactory; 
 
     [SetUp]
+    public void SetUp()
+    {
+        _dbContextFactory = new TestDbContextFactory();
+    }
 }
