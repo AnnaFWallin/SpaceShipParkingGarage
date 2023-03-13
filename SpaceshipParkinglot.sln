@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceshipGarageAPI", "Space
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceshipGarageAPITests", "SpaceshipGarageAPITests\SpaceshipGarageAPITests.csproj", "{E27028D0-DF3A-41B7-8B65-471F15240801}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceshipGarageAPINUnitTests", "SpaceshipGarageAPINUnitTests\SpaceshipGarageAPINUnitTests.csproj", "{A020E444-D004-4134-8B7A-4F18835AF1E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E27028D0-DF3A-41B7-8B65-471F15240801}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E27028D0-DF3A-41B7-8B65-471F15240801}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E27028D0-DF3A-41B7-8B65-471F15240801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A020E444-D004-4134-8B7A-4F18835AF1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A020E444-D004-4134-8B7A-4F18835AF1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A020E444-D004-4134-8B7A-4F18835AF1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A020E444-D004-4134-8B7A-4F18835AF1E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
